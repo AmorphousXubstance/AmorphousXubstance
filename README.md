@@ -1,5 +1,5 @@
 ## -- ======== -- -- KNOW ME -- -- ======== --
-> Hi, I’m @AmorphousXubstance, I go by my alias Sorairo Yorimitsu (空色頼光), a 1:1 linguistic and conceptual translation of my name. My real name is very unique, thus due to privacy (and pronunciation) concerns, call me Sora. I like explaining and never use anything I don't understand fully. I don't advocate for ctrl+c/ctrl+v solutions if there is no takeaway. I personally prefer FOSS, but have no problem with closed source consumer software.<br>
+> Hi! I’m @AmorphousXubstance, I go by my alias Sorairo Yorimitsu (空色頼光), a 1:1 linguistic and conceptual translation of my name. My real name is very unique, thus due to privacy (and pronunciation) concerns, call me Sora. I like explaining and never use anything I don't understand fully. I don't advocate for ctrl+c/ctrl+v solutions if there is no takeaway. I personally prefer FOSS, but have no problem with closed source consumer software.<br>
 > (And I always make it a point to make my pfp describe my face accurately enough 🙃)
 
 ## -- ======== -- -- ABOUT ME -- -- ======== --
@@ -9,6 +9,13 @@
 - 📫 How to reach me : Just @me anytime, I love to explain and resolve doubts.
 - 😄 Pronouns: He/Him (Vi/Vim is just a quirk, dont mind me)
 - ⚡ Fun fact: The real name for a hashtag is an octothorpe.
+
+## -- ======== -- -- TECH SPECS -- -- ======== --
+- **OS:** Arch Linux x86_64
+- **Kernel:** Linux 6.18.7-arch1-1
+- **Shell:** Bash 5.3.9
+- **Editor:** NeoVim (No Distro)
+- **Languages:** C++, Java, Python, HTML, CSS, JavaScript(Vanilla), C64 Basic
 
 <!---
 AmorphousXubstance/AmorphousXubstance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
