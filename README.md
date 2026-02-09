@@ -18,7 +18,7 @@
 - **Kernel:** Linux 6.18.8-arch2-1
 - **Shell:** Bash 5.3.9 <!--000003E-->
 <nobr><!--000004S-->
-</nobr> - **Editor:** NeoVim (No Distro)
+- **Editor:** NeoVim (No Distro) </nobr>
 - **Languages:** C++, Java, Python, HTML, CSS, JavaScript(Vanilla), C64 Basic
 <!--000004E--><!--000005S-->
 *Last Update(2/9/26) Manual/~~Automatic(python3,regex,json,bash)~~ Errors(N/A)*
