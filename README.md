@@ -21,7 +21,7 @@
 - **Editor:** NeoVim (No Distro) </nobr>
 - **Languages:** C++, Java, Python, HTML, CSS, JavaScript(Vanilla)
 <!--000004E--><!--000005S-->
-*Last Update(02/11/2026) ~~Manual~~/Automatic(fastfetch,python3,regex,json,bash) Errors(0)*
+*Last Update(02/12/2026) ~~Manual~~/Automatic(fastfetch,python3,regex,json,bash) Errors(0)*
 <!--000005E-->
 <!---
 AmorphousXubstance/AmorphousXubstance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
