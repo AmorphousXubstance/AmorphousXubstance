@@ -6,7 +6,7 @@
 ## -- ======== -- -- ABOUT ME -- -- ======== --
 <!--000002S-->
 - 👀 I’m interested in : Everything. I like to try out new things, new hobbies and like to explore all I can observe.
-- 🌱 I’m currently learning : Lua & Haskell, but primarily how to not take life so seriously.
+- 🌱 I’m currently learning : [Lua] & [Haskell], but primarily how to not take life so seriously.
 - 💞️ I’m looking to collaborate on : Nothing currently, but appreciate any/all company.
 - 📫 How to reach me : Just @me anytime, I love to explain and resolve doubts.
 - 😄 Pronouns: He/Him (Vi/Vim is just a quirk, dont mind me)
@@ -27,4 +27,9 @@
 AmorphousXubstance/AmorphousXubstance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[fastfetch]: https://github.com/fastfetch-cli/fastfetch
+[python3]: https://www.python.org/doc/
+[bash]: https://www.gnu.org/software/bash/manual/bash.html
+[Lua]: https://www.lua.org/manual/5.4/
+[Haskell]: https://www.haskell.org/documentation/
 <!-- PLEASE IGNORE COMMENTS BETWEEN SECTIONS, THEY ARE REGEX TAGS -->
