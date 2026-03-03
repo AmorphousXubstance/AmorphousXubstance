@@ -19,17 +19,22 @@
 - **Shell:** bash v5.3.9 <!--000003E-->
 <nobr><!--000004S-->
 - **Editor:** NeoVim (No Distro) </nobr>
-- **Languages:** C++, Java, Python, HTML, CSS, JavaScript(Vanilla)
+- **Languages:** [C++], [Java], [Python], [Bash], HTML, CSS, JavaScript(Vanilla)
 <!--000004E--><!--000005S-->
-*Last Update(03/03/2026) ~~Manual~~/Automatic(fastfetch,python3,regex,json,bash) Errors(0)*
+*Last Update(03/03/2026) ~~Manual~~/Automatic(fastfetch,python3,bash) Errors(0)*
 <!--000005E-->
+> Resources: [fastfetch], [Arch]<!-- delimiter--> [Linux]
 <!---
 AmorphousXubstance/AmorphousXubstance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 [fastfetch]: https://github.com/fastfetch-cli/fastfetch
-[python3]: https://www.python.org/doc/
-[bash]: https://www.gnu.org/software/bash/manual/bash.html
+[Python]: https://www.python.org/doc/
+[Bash]: https://www.gnu.org/software/bash/manual/bash.html
 [Lua]: https://www.lua.org/manual/5.4/
 [Haskell]: https://www.haskell.org/documentation/
+[C++]: https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170
+[Java]: https://docs.oracle.com/en/java/
+[Arch]: https://archlinux.org/
+[Linux]: https://www.kernel.org/
 <!-- PLEASE IGNORE COMMENTS BETWEEN SECTIONS, THEY ARE REGEX TAGS -->
