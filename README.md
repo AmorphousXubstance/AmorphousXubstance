@@ -6,7 +6,7 @@
 ## -- ======== -- -- ABOUT ME -- -- ======== --
 <!--000002S-->
 - 👀 I’m interested in : Everything. I like to try out new things, new hobbies and like to explore all I can observe.
-- 🌱 I’m currently learning : C & Bash, but primarily how to not take life so seriously.
+- 🌱 I’m currently learning : Lua & Haskell, but primarily how to not take life so seriously.
 - 💞️ I’m looking to collaborate on : Nothing currently, but appreciate any/all company.
 - 📫 How to reach me : Just @me anytime, I love to explain and resolve doubts.
 - 😄 Pronouns: He/Him (Vi/Vim is just a quirk, dont mind me)
@@ -15,13 +15,13 @@
 ## -- ======== -- -- TECH SPECS -- -- ======== --
 <!--000003S-->
 - **OS:** Arch Linux
-- **Kernel:** Linux ; 6.18.9-arch1-2 x86_64
+- **Kernel:** Linux ; 6.18.13-arch1-1 x86_64
 - **Shell:** bash v5.3.9 <!--000003E-->
 <nobr><!--000004S-->
 - **Editor:** NeoVim (No Distro) </nobr>
 - **Languages:** C++, Java, Python, HTML, CSS, JavaScript(Vanilla)
 <!--000004E--><!--000005S-->
-*Last Update(02/25/2026) ~~Manual~~/Automatic(fastfetch,python3,regex,json,bash) Errors(0)*
+*Last Update(03/03/2026) ~~Manual~~/Automatic(fastfetch,python3,regex,json,bash) Errors(0)*
 <!--000005E-->
 <!---
 AmorphousXubstance/AmorphousXubstance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
