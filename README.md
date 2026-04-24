@@ -15,13 +15,13 @@
 ## -- ======== -- -- TECH SPECS -- -- ======== --
 <!--000003S-->
 - **OS:** Arch Linux
-- **Kernel:** Linux ; 6.19.11-arch1-1 x86_64
+- **Kernel:** Linux ; 6.19.13-arch1-1 x86_64
 - **Shell:** bash v5.3.9 <!--000003E-->
 <nobr><!--000004S-->
 - **Editor:** NeoVim (No Distro) </nobr>
 - **Languages:** [C++], [Java], [Python], [Bash], HTML, CSS, JavaScript(Vanilla)
 <!--000004E--><!--000005S-->
-*Last Update(04/12/2026) ~~Manual~~/Automatic(fastfetch,python3,bash) Errors(0)*
+*Last Update(04/24/2026) ~~Manual~~/Automatic(fastfetch,python3,bash) Errors(0)*
 <!--000005E-->
 > Resources: [fastfetch], [Arch]<!-- delimiter--> [Linux]
 <!---
